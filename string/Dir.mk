@@ -37,7 +37,8 @@ string-tests := \
 	build/bin/test/strchrnul \
 	build/bin/test/strlen \
 	build/bin/test/strnlen \
-	build/bin/test/strncmp
+	build/bin/test/strncmp \
+	build/bin/test/strspn
 
 string-benches := \
 	build/bin/bench/memcpy \
